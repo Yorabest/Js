@@ -68,12 +68,47 @@
 // console.log(upatedPlayers);
 
 // const linkRef = document.querySelector('.site-nav__link[href="/portfolio"]');
-// console.log(linkRef.href = '/ddd');
-const form = document.querySelector('.js-register-form');
+// console.log(linkRef.h
 
-form.addEventListener('submit', (event)=>{
-    event.preventDefault();
+// function Client(name, surname, data) {
+//   this.name = name;
+//   this.surname = surname;
+//   this.data = data
+// };
 
-    
-    console.log('Submit');
-})
+// Client.prototype.changeData = function (newData) {
+//   this.data = newData
+// };
+
+// Client.prototype.showName = function () {
+//  this.name;
+// }
+
+// const AliseBlack = new Client('Alise',' Bleck', '02.05.22')
+// const RintaroBlack = new Client('Rintaro',' Bleck', '02.05.22')
+
+// console.log(AliseBlack);
+// console.log(RintaroBlack);
+
+// class Costumer {
+//   constructor(name, surname, data){
+//  this._name = name;
+//   this.surname = surname;
+//   this._data = data
+//   }
+
+//   get name(){
+//     this._name
+//   }
+
+//   set data(newData){
+//      this._data = newData
+//   }
+// }
+
+// const RoseHoll = new Costumer('Rose', 'Holl', '05.09.21');
+// const HugoPunch = new Costumer('Hugo', 'Punch', '01.04.20');
+
+// console.log(RoseHoll);
+// console.log(HugoPunch);
+
